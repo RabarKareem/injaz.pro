@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/api/contact/route": "/api/contact",
+  "/contact/page": "/contact",
+  "/favicon.ico/route": "/favicon.ico",
+  "/implementation/page": "/implementation",
+  "/modules/page": "/modules",
+  "/page": "/",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/solutions/page": "/solutions",
+  "/why-injaz/page": "/why-injaz"
+}

@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/why-injaz/layout,_N_T_/why-injaz/page,_N_T_/why-injaz"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/why-injaz/__PAGE__",
+    "/why-injaz",
+    "/_index",
+    "/_head"
+  ]
+}

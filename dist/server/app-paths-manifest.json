@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/contact/page": "app/contact/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/implementation/page": "app/implementation/page.js",
+  "/modules/page": "app/modules/page.js",
+  "/page": "app/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/solutions/page": "app/solutions/page.js",
+  "/why-injaz/page": "app/why-injaz/page.js"
+}
